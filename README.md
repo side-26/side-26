@@ -1,7 +1,7 @@
 ### 
  <h1>Hi i'm mahdi rashidi from IRAN.🙌</h1>
     <h2>I am front-end developer.👨‍💻</h2>
-    <P>I'm currently studing computer engeering in bahonar university and also learning react & javascript.</p>
+    <P>I'm currently studing computer engineering in bahonar university and also learning react & javascript.</p>
     
     
     
