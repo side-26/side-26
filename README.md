@@ -4,8 +4,8 @@
     <P>I'm currently studing computer engineering in bahonar university and also learning react & javascript.</p>
     
     
-    
-![Github stats](https://github-readme-stats.vercel.app/api?username=side-26&theme=github_dark&show_icons=true&count_private=true)
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=side-26&show_icons=true)
+
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=side-26&layout=compact)
 
