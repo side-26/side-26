@@ -1,26 +1,30 @@
-### 
- <h1>Hi i'm mahdi rashidi from IRAN.🙌</h1>
-    <h2>I am front-end developer.👨‍💻</h2>
-    <P>I'm currently studing computer engineering in bahonar university and also learning react & javascript.</p>
-    
-    
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=side-26&count_private=true&theme=dark)
+# Hi, I'm Mahdi Rashidi 👋
 
+### Front-End Developer · Junior Back-End Developer
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=side-26&theme=dark)
+I'm a Computer Engineering student at Bahonar University with three years of experience in front-end development. I primarily work with TypeScript and enjoy building clean, maintainable, and user-friendly applications.
 
+I'm currently expanding my back-end knowledge by learning NestJS and Go.
 
-<!--
-**side-26/side-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 💻 Three years of front-end development experience
+- ⚛️ Building modern web applications with React and TypeScript
+- 🛠️ Growing as a back-end developer
+- 🌱 Currently learning NestJS and Go
+- 🎓 Studying Computer Engineering at Bahonar University
+- 📍 Based in Iran
+- 🤝 Open to collaboration and new opportunities
 
-- 🔭 I’m currently working on react
-- 🌱 I’m currently learning react
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+**Languages:** TypeScript, JavaScript, HTML, CSS  
+**Front End:** React  
+**Back End:** Node.js, NestJS  
+**Currently Learning:** Go
+
+## GitHub Statistics
+
+![Mahdi's GitHub statistics](https://github-readme-stats.vercel.app/api?username=side-26&show_icons=true&count_private=true&theme=dark&hide_border=true)
+
+![Mahdi's most-used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=side-26&layout=compact&theme=dark&hide_border=true)
