@@ -10,7 +10,7 @@ I build **reliable, performance-conscious web applications**---from
 real-time emergency-response dashboards to data-heavy systems and
 full-stack commerce experiences.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://mahdi-rashidi.space)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://side-26.github.io/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahdirashidi462@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-side--26-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/side-26)
 
@@ -204,7 +204,7 @@ Works with JavaScript and TypeScript projects (`.js`, `.jsx`, `.ts`, `.tsx`, `.m
 <div align="center">
 **Let's build something useful.**
 
-[Portfolio](https://mahdi-rashidi.space) · [Pet
+[Portfolio](https://side-26.github.io/) · [Pet
 Shop](https://pet-shop.mahdi-rashidi.space) · [Email
 me](mailto:mahdirashidi462@gmail.com)
 </div>
